@@ -73,7 +73,12 @@ You should see an output as follows:
 ```
  Created index: scifi-movies
 🚀 Starting ingestion of 500 movies from 500_scifi_movies.jsonl...
-Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 1/500 (0%) | ok:1 | fail:0 | chunks:1 | eta:19m 33s | current:Capricorn One               Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 2/500 (0%) | ok:2 | fail:0 | chunks:2 | eta:10m 32s | current:Doghouse                    Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 3/500 (1%) | ok:3 | fail:0 | chunks:3 | eta:7m 33s | current:Dinocroc                     Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 4/500 (1%) | ok:4 | fail:0 | chunks:7 | eta:6m 10s | current:Back to the Future           Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 5/500 (1%) | ok:5 | fail:0 | chunks:9 | eta:5m 14s | current:The Projected Man            Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 6/500 (1%) | ok:6 | fail:0 | chunks:11 | eta:4m 41s | current:I, Robot
+Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 1/500 (0%) | ok:1 | fail:0 | chunks:1 | eta:19m 33s | current:Capricorn One
+Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 2/500 (0%) | ok:2 | fail:0 | chunks:2 | eta:10m 32s | current:Doghouse
+Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 3/500 (1%) | ok:3 | fail:0 | chunks:3 | eta:7m 33s | current:Dinocroc
+Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 4/500 (1%) | ok:4 | fail:0 | chunks:7 | eta:6m 10s | current:Back to the Future
+Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 5/500 (1%) | ok:5 | fail:0 | chunks:9 | eta:5m 14s | current:The Projected Man
+Ingesting ░░░░░░░░░░░░░░░░░░░░░░░░ 6/500 (1%) | ok:6 | fail:0 | chunks:11 | eta:4m 41s | current:I, Robot
 ...
 ✅ Ingestion complete in 1m 46s. Success: 500, Failed: 0, Chunks: 693.
 ```
