@@ -1,0 +1,39 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "mastra dev",
+    "build": "mastra build",
+    "start": "mastra start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^3.0.41",
+    "@mastra/core": "^1.10.0",
+    "@mastra/elasticsearch": "^1.1.0",
+    "@mastra/evals": "^1.1.2",
+    "@mastra/libsql": "^1.5.0",
+    "@mastra/loggers": "^1.0.2",
+    "@mastra/memory": "^1.4.0",
+    "@mastra/observability": "^1.2.0",
+    "@mastra/rag": "^2.1.0",
+    "ai": "^6.0.94",
+    "ts-node": "^10.9.2",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.0",
+    "mastra": "^1.3.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
